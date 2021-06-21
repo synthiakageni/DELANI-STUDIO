@@ -2,7 +2,7 @@
 #### Author 
 <a href="https://github.com/synthiakageni"> SYNTHIA KAGENI</a>
 ## Description
-This is a webpage for delani studio.
+This is a webpage for delani studio .It shows their activities and a data entry form to reach out to them.
 ## Setup/Installation Requirements
 To run the app in your machine or server,use the following steps:
 ### prerequisite
