@@ -1,36 +1,76 @@
-.intro{
+.header {
+  background: url(../../images/D2.jpg);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.intro {
+  padding-top: 10em;
   text-align: center;
   color: white;
 }
-.two{
-  text-align: center;
+
+.logo {
+  margin-bottom: 5em;
 }
-.services{
+
+.mouse {
+  margin-top: 3em;
+}
+
+.about-us {
+  text-align: center;
+  padding: 2em 4em;
+}
+
+.services {
+  padding: 3em 4em;
   text-align: center;
   color: white;
+  background: url(../../images/D3.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.form{
+
+.four {
   text-align: center;
 }
-.row2{
+
+#pen {
+  text-align: center;
+  padding: 2em 3em;
+}
+
+
+.form {
+  text-align: center;
+}
+
+.row2 {
   margin-left: 30%;
   margin-right: 30%;
   color: white;
-  
+  background: url(images/D1.jpg);
 }
-.media{
+
+.media {
   text-align: center;
 }
-.text{
-text-align: center;
+
+.text {
+  text-align: center;
 }
-.images{
+
+.images {
   margin-top: 10%;
   margin-bottom: 10%;
 }
-body{
-  padding-right: 10%;
-  padding-left: 10%;
+
+body {
+  padding-right: 5%;
+  padding-left: 5%;
   margin-right: 10%;
   margin-left: 10%;
 }

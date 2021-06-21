@@ -1,6 +1,8 @@
 $(".clickable1").click(function(){
-    $(".hide1").slideToggle(1200);
-    $(".show1").slideToggle(1500);
+    $(".show1").slideToggle();
+    $(".hide1").Toggle();
+    $(".show1").slideToggle();
+    $(".hide1").fadeOut(1500);
   });
   
   $(".clickable2").click(function() {
@@ -16,4 +18,5 @@ $(".clickable1").click(function(){
     alert(name + " Thank you for replying");
     event.preventDefault();
   });
+
   
