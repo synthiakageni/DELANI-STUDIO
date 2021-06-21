@@ -96,3 +96,31 @@ body {
   margin-right: 10%;
   margin-left: 10%;
 }
+.media{
+  margin-top: 1em;
+}
+.med{
+padding: 1em 1em;
+}
+
+.text {
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  text-shadow: 1px 1px #fff;
+  z-index: 1;
+  position: absolute;
+  
+}
+
+#overlay {
+  font-size: 30px;
+  color: black;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.456);
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 25%;
+
+}
+

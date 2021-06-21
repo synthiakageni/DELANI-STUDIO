@@ -37,7 +37,12 @@ $(".clickable1").ready(function(){
     
   });
 
-  
+
+  //Display text over Hover images in portfolio section.
+  $("#blank").mouseover(function(){$("#overlay").show();
+  })
+  .mouseout(function(){$("#overlay").hide();
+  });
   
   
   $("#sub").click(function(event) {
