@@ -88,14 +88,6 @@
 .inputs, .textarea{
   background: none;
 }
-
-
-body {
-  padding-right: 1em;
-  padding-left: 1em;
-  margin-right: 2em;
-  margin-left: 2em;
-}
 .media{
   margin-top: 1em;
 }
@@ -110,6 +102,9 @@ padding: 1em 1em;
   text-shadow: 1px 1px #fff;
   z-index: 1;
   position: absolute;
+  left: 30%;
+  top: 40%;
+  font-size: 220%;
   
   
 }

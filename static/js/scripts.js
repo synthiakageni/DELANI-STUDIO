@@ -1,3 +1,11 @@
+function reply() {
+  let name = document.getElementById("name").value;
+  let output =  "Hello " + name + ", we have received your message,thankyou for reaching out to us.";
+  alert(output);
+}
+
+
+
 $(".clickable1").ready(function(){
     $(".hide1").fadeOut();
     $(".show1").on("click",function(){
@@ -45,11 +53,8 @@ $(".clickable1").ready(function(){
   });
   
   
-  $("#sub").click(function(event) {
-    var name = $("#name").val();
-    alert(name + " Thank you for replying");
-    event.preventDefault();
-  });
+  
+
 
 
 
