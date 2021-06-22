@@ -10,7 +10,8 @@ To run the app in your machine or server,use the following steps:
 *  git clone the repo git clone https://github.com/synthiakageni/DELANI-STUDIO.git
 *  cd "DELANI STUDIO" 
 *  code .
-## [Live link]()
+## [Live link](synthiakageni.github.io/delani-studio)
+
 ## Known Bugs
 There are no known bugs
 ## features:

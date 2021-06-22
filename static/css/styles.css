@@ -72,7 +72,7 @@
   text-align: center;
 }
 
-.text {
+.text2 {
   text-align: center;
 }
 #port{
@@ -91,10 +91,10 @@
 
 
 body {
-  padding-right: 5%;
-  padding-left: 5%;
-  margin-right: 10%;
-  margin-left: 10%;
+  padding-right: 1em;
+  padding-left: 1em;
+  margin-right: 2em;
+  margin-left: 2em;
 }
 .media{
   margin-top: 1em;
@@ -103,13 +103,14 @@ body {
 padding: 1em 1em;
 }
 
-.text {
+.text1 {
   font-weight: bold;
   text-align: center;
   color: black;
   text-shadow: 1px 1px #fff;
   z-index: 1;
   position: absolute;
+  
   
 }
 
